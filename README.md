@@ -54,3 +54,7 @@ python manage.py runserver
 
 Acesse: ````http://127.0.0.1:8000/````
 
+### Link:
+O tuturial completo está <a href="https://www.youtube.com/watch?v=ahMwu-tJgIY" target="_blank"> aqui. </a>
+
+
